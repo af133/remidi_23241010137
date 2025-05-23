@@ -1,3 +1,11 @@
+## Tampilan:
+1. Login
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/0a5e602d-f8ae-4f56-8cd3-e557751977b1" />
+2. Dashboard
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/41305614-4f51-44f3-b2c4-55e947182807" />
+3. Profil
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/74cd13f7-11c1-4320-a8a9-11e871aa9e99" />
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
