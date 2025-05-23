@@ -3,11 +3,11 @@
    
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/0a5e602d-f8ae-4f56-8cd3-e557751977b1" />
 
-3. Dashboard
+2. Dashboard
 
 <img width="944" alt="image" src="https://github.com/user-attachments/assets/41305614-4f51-44f3-b2c4-55e947182807" />
 
-4. Profil
+3. Profil
 
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/74cd13f7-11c1-4320-a8a9-11e871aa9e99" />
 
